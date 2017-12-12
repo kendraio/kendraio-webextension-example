@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "webpack -w",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.55",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "auth0-chrome": "^0.1.2",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.19.4"
+  }
+}

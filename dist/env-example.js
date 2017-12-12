@@ -1,0 +1,4 @@
+window.env = {
+    AUTH0_DOMAIN: '<INSERT-AUTH0-DOMAIN>',
+    AUTH0_CLIENT_ID: '<INSERT-AUTH0-CLIENT-ID>'
+};
